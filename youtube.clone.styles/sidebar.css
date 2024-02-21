@@ -1,0 +1,71 @@
+.sidebar{
+  position: fixed;
+  top:44px;
+  bottom: 0px;
+  left: 0px;
+  width: 70px;
+  background-color: white;
+}
+.side-icon{
+  height:55px;
+  width: 60px;
+  margin-bottom: 20px;
+  justify-content: center;
+  vertical-align: center;
+}
+.home-icon-img{
+  height: 18px;
+  padding-left:28px ;
+  padding-top: 35px;
+  padding-bottom: 5px;
+  margin-bottom: 0px;
+}
+.home-icon-text{
+  font-family: roboto,arial;
+  font-size: 10px;
+  padding-left: 22.5px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.shorts-icon-img{
+  height:29px;
+  padding-left:22px ;
+  padding-top: 29px;
+  padding-bottom: 0px;
+  margin-bottom: -1px;
+}
+.shorts-icon-text{
+  font-family: roboto,arial;
+  font-size: 10px;
+  padding-left: 21.5px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.subscription-icon-img{
+  height:24px;
+  padding-left:24px ;
+  padding-top: 30px;
+  padding-bottom: 2px;
+  margin-bottom: 0px;
+}
+.subscription-icon-text{
+  font-family: roboto,arial;
+  font-size: 10px;
+  padding-left: 5.5px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.library-icon-img{
+  height:18px;
+  padding-left:27px ;
+  padding-top: 32px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+.library-icon-text{
+  font-family: roboto,arial;
+  font-size: 10px;
+  padding-left: 27.5px;
+  padding-top: 5px;
+  margin-top: 0px;
+}
